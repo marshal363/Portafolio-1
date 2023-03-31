@@ -17,6 +17,10 @@ import redux from "../assets/redux.png";
 import sass from "../assets/sass.png";
 import typescript from "../assets/typescript.png";
 import vue from "../assets/vue.png";
+import sql from "../assets/sql.png";
+import kadena from "../assets/kadena.png";
+import kadena1 from "../assets/kadena1.png";
+import solidity from "../assets/solidity.png";
 
 import about01 from "../assets/about01.png";
 import about02 from "../assets/about02.png";
@@ -24,6 +28,11 @@ import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
 
 import profile from "../assets/profile.png";
+import profile1 from "../assets/profile1.png";
+import profile2 from "../assets/profile2.png";
+import profile4 from "../assets/profile4.png";
+import profile5 from "../assets/profile5.png";
+import profile5_2385x3065 from "../assets/profile5_2385x3065.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 
@@ -35,6 +44,7 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   email,
   mobile,
@@ -60,6 +70,11 @@ export default {
   about03,
   about04,
   profile,
+  profile1,
+  profile2,
+  profile4,
+  profile5,
+  profile5_2385x3065,
   circle,
   logo,
   adidas,
@@ -69,4 +84,8 @@ export default {
   nb,
   skype,
   spotify,
+  sql,
+  kadena,
+  kadena1,
+  solidity,
 };
